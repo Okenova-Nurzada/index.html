@@ -1,0 +1,29 @@
+header {
+    position: sticky;
+    
+}
+header nav {
+background-color: green;
+} 
+nav  ul li a {
+    color: white;
+    text-decoration: none;
+   
+   
+}
+ul li{
+    list-style: none; 
+    padding: 20px;
+   
+}
+
+ul{
+ display: flex;
+ justify-content: center;
+ 
+}
+nav li a:hover {
+    background-color: rgb(211, 206, 206);
+    opacity: 0.5;
+    padding: 10px;
+}

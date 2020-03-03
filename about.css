@@ -1,0 +1,48 @@
+
+header nav {
+    background-color: green;
+}
+    ul li{
+        list-style: none; 
+        padding: 20px;
+       
+    }
+    header {
+        position: sticky;
+        
+    }
+   
+    
+    nav  ul li a {
+        color: white;
+        text-decoration: none;
+       
+       
+    }
+    ul{
+     display: flex;
+     justify-content: center;
+     
+    }
+    nav li a:hover {
+        background-color: rgb(211, 206, 206);
+        opacity: 0.5;
+        padding: 10px;
+    }
+
+
+img{
+    width: 150px; 
+}
+ #second{
+    float: left;
+ }
+ .first{
+     float: right;
+ }
+ ul li{
+     list-style: none; 
+     padding: 20px;
+    
+ }
+ 

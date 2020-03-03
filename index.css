@@ -1,0 +1,59 @@
+header {
+        position: sticky;
+        
+    }
+    header nav {
+    background-color: green;
+} 
+nav  ul li a {
+        color: white;
+        text-decoration: none;
+       
+       
+    }
+    ul li{
+        list-style: none; 
+        padding: 20px;
+       
+    }
+    
+    ul{
+     display: flex;
+     justify-content: center;
+     
+    }
+    nav li a:hover {
+        background-color: rgb(211, 206, 206);
+        opacity: 0.5;
+        padding: 10px;
+   }
+
+h3{
+    text-align: center;
+}
+
+#home {
+    text-decoration: none;
+    text-align: left;
+}
+
+ div {
+    text-align: center;
+    flex-basis: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    box-sizing: border-box;
+}
+
+
+section {
+    text-align: center;
+}
+
+img {
+    width: 45%;
+}
+h1 {
+    text-align: left;
+}
